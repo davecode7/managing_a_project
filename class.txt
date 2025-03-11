@@ -1,0 +1,9 @@
+Mathematics
+C++
+C#
+Python
+SQL
+Arduino
+HTML
+Tailwind
+CSS
