@@ -1,0 +1,2 @@
+# managing_a_project
+A COURSERA EXERCISE FOR VERSION CONTROL
